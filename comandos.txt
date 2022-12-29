@@ -1,0 +1,4 @@
+npm create vite@latest dresswell
+ cd dresswell
+  npm install
+  npm run dev
